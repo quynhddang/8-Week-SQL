@@ -5,6 +5,7 @@
 ## 📂 Table of Contents
 
 - [Business Task](https://github.com/quynhddang/8-Week-SQL/edit/main/CS%20%231-%20Danny's%20Diner/README.md#business-task)
+- [Entity Relationship Diagram](https://github.com/quynhddang/8-Week-SQL/edit/main/CS%20%231-%20Danny's%20Diner/README.md#entity-relationshop-diagram)
 - [Questions and Solutions](https://github.com/quynhddang/8-Week-SQL/edit/main/CS%20%231-%20Danny's%20Diner/README.md#entity-relationship-diagram)
 - [Bonus Questions](https://github.com/quynhddang/8-Week-SQL/edit/main/CS%20%231-%20Danny's%20Diner/README.md#bonus-questions)
 
@@ -13,6 +14,10 @@ All information for the case study has been sourced [here](https://8weeksqlchall
 ## Business Task
 
 Danny wants to use data captured from a few months of operations to find out more about his customers, especially their visiting patterns, how much money they spent, and which menu items are their favorite. He plans to use these insights to decide whether he should expand the existing customer loyalty program- additionally he needs help to generate basic datasets so his team can easily inspect the data.
+
+## Entity Relationship Diagram
+
+![image alt](https://github.com/quynhddang/8-Week-SQL/blob/main/CS%20%231-%20Danny's%20Diner/erd)
 
 ## Questions and Solutions
 
