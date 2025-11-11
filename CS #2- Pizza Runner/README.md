@@ -11,6 +11,12 @@ All information for the case study has been sourced [here](https://8weeksqlchall
 
 ## Business Task
 
+In order to expand his new Pizza Empire, Danny decides to Uberize it and launched Pizza Runner.
+
+Danny started by recruiting "runners" to deliver fresh pizza from Pizza Runner HQ (also known as Danny's house) and also maxed out his credit cards to pay freelance developers to build a mobile app to accept orders from customers.
+
+Afte collecting data, he requires further assistance to clean his data and apply basic calculations so that he can better direct his runners and optimize Pizza Runner's operations.
+
 ## Entity Relationship Program
 
 ![image alt](https://github.com/quynhddang/8-Week-SQL/blob/34075e66473b1c75b808eb21d234e102bc007c49/CS%20%232-%20Pizza%20Runner/ERD.png)
